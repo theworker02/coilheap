@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/coilheap",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Coil CSV/TSV heap tables for quick inspection and cleanup.",
+  "bin": {
+    "coilheap": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/coilheap.git"
+  },
+  "homepage": "https://theworker02.github.io/coilheap/",
+  "keywords": [
+    "coil",
+    "heap",
+    "csv",
+    "cli",
+    "toolkit"
+  ]
+}
